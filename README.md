@@ -44,7 +44,7 @@ Se the documentation here:
 
 The test environment is already installed on the project to see ir running just execute the command:
 
-```{r, engine='bash', count_lines}
+```{r, engine='bash'}
 npm run test:watch
 ```
 
