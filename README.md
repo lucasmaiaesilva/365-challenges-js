@@ -6,6 +6,7 @@ and they must solve one single problem, usually they will be a single function.
 
 # List of Challenges
 
+* [Challenge-001](/challenge-001) - Factorial
 
 
 ## How to post one challenge
@@ -16,23 +17,23 @@ The challenges will be available at the repository in a folder with their number
 For example, the first test will be in the folder with name `challenge-001`.
 So if you want to post one blank challenge you just have to create one folder with the structure below:
 
-### 1 - Create in your local repository a Branch `blank`
-
-After Starred this repository ;), fork and create a branch `blank`.
-
-### 2 - Write a REDME file for your challenge
+### 1 - Write a REDME file for your challenge
 
 You have to write a `README.md` file, containing the header of the challenge. The header must have clean instructions of the solution of the challenge.
 
-### 3 - A name of the file
+### 2 - A name of the file
 
 The file with the name of the challenge fox example `factorial.js`
 
-### 4 - The test file for the challenge
+### 3 - The test file for the challenge
 
 The test for the respective challenge wrote with the same name `factorial.test.js` (this will help us when we will write the test of the challenges).
 
 Even in a blank challenge we must have the tests written, because the tests will guide in the challenge solution, because the challenge will be solved when the all the test's pass, so is really important to have test all cases.
+
+## How to solve the challenges
+
+To avoid conflicts, just create a new branch with the same name of a challenge. For example if you want to solve the challenge-007, you just create a branch with this name `git checkout -b challenge-007`, and do the magic.
 
 ## Tests
 
