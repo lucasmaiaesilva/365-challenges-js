@@ -6,7 +6,7 @@ and they must solve one single problem, usually they will be a single function.
 
 # List of Challenges
 
-* [Challenge-001](/challenge-001) - Factorial
+* Challenge-001 - Factorial
 
 
 ## How to post one challenge
