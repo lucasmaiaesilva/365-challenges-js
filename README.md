@@ -10,7 +10,7 @@ and they must solve one single problem, usually they will be a single function.
 
 ## How to post one challenge
 
-We will keep the repository organized so every blank challenge will be in the branch with the name **blank**. Once the PR was accepted we will change the challenge to the branch **master**.
+We will keep the repository organized so every blank challenge will be in the branch **master**.
 
 The challenges will be available at the repository in a folder with their numbers.
 For example, the first test will be in the folder with name `challenge-001`.
