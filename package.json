@@ -1,0 +1,19 @@
+{
+  "name": "365-challenges-js",
+  "version": "1.0.0",
+  "description": "A list of a 365 algorithm challenges, wrote in JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmaiaesilva/365-challenges-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmaiaesilva/365-challenges-js/issues"
+  },
+  "homepage": "https://github.com/lucasmaiaesilva/365-challenges-js#readme"
+}
