@@ -4,7 +4,16 @@
   "description": "A list of a 365 algorithm challenges, wrote in JS",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage",
+    "test:watch": "npm test -- --watch"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-jest": "^19.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^3.5.0",
+    "jest-cli": "^19.0.2"
   },
   "repository": {
     "type": "git",
