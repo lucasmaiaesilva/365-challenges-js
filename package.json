@@ -1,6 +1,6 @@
 {
   "name": "365-challenges-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A list of a 365 algorithm challenges, wrote in JS",
   "main": "app.js",
   "scripts": {
