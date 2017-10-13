@@ -1,6 +1,3 @@
-const alphabetSoup = (srt) => {
-  // code here
-  return str
-}
+const alphabetSoup = string => string.split('').sort().join('')
 
 export default alphabetSoup
