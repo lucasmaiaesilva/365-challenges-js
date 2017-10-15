@@ -19,7 +19,17 @@
     "type": "git",
     "url": "git+https://github.com/lucasmaiaesilva/365-challenges-js.git"
   },
-  "author": "",
+  "engines": {
+    "node": "8.x.x",
+    "npm": "5.x.x"
+  },
+  "author": "Lucas Maia",
+  "contributors": [
+    {
+      "name": "Diego Ramos",
+      "email": "rdiego26@gmail.com"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lucasmaiaesilva/365-challenges-js/issues"
