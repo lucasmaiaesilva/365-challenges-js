@@ -16,6 +16,7 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 
 input:
 
+```
 3
 
 11 2 4
@@ -23,6 +24,7 @@ input:
 4 5 6
 
 10 8 -12
+```
 
 output:
 
@@ -31,22 +33,25 @@ output:
 Explanation:
 
 The primary diagonal is
-
+```
 11
 
   5
 
-    -12
+    -12
+```
 
 Sum across the diagonal is: 11 + 5 -12 = 4
 
 The secondary diagonal is:
 
-      4
+```
+      4
 
     5
 
-  10
+  10
+```
 
 Sum across the secondary diagonal: 4 + 5 + 10 = 19
 
