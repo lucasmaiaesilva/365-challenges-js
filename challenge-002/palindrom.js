@@ -1,4 +1,3 @@
-const palindrom = (str) => {
-  // Do the magic here
-}
+const palindrom = str => str.split('').reverse().join('')
+
 export default palindrom
